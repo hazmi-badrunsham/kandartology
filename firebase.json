@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "kandartology",
+                    "appId": "1:449093510661:android:d47b5add432e1dedd59e6c",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "kandartology",
+                    "configurations": {
+                        "android": "1:449093510661:android:d47b5add432e1dedd59e6c",
+                        "ios": "1:449093510661:ios:8d81a7c7cf05f342d59e6c",
+                        "macos": "1:449093510661:ios:8d81a7c7cf05f342d59e6c",
+                        "web": "1:449093510661:web:f300a9e143dc9089d59e6c",
+                        "windows": "1:449093510661:web:780f80a6be08d360d59e6c"
+                    }
+                }
+            }
+        }
+    }
+}

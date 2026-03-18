@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449093510661",
+    "project_id": "kandartology",
+    "storage_bucket": "kandartology.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449093510661:android:d47b5add432e1dedd59e6c",
+        "android_client_info": {
+          "package_name": "com.example.kandartology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2F3iz5d1tRJn9uFdfGI7mTy083nj8MfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
